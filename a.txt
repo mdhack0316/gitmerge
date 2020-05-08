@@ -1,4 +1,0 @@
-		<body> bgcolor='aqua'</body>
-<h1>welcome to jenkins</h1>
-
-
